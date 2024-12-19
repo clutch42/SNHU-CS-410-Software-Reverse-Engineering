@@ -13,3 +13,5 @@ relevant to your field:
 - CS-30704: Apply the fundamentals of assembly language in reverse engineering tasks
 - CS-30705: Review common security issues that may be identified through reverse 
 engineering
+
+This course uses Codio, a cloud-based integrated development environment (IDE).
